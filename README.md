@@ -3,10 +3,11 @@
 Nice to meet you.
 &nbsp;
 
-<a href="/" target="_blank" rel="noopener noreferrer">
-    <img width="450" alt="image" src="/email.jpg">
+<a href="/" target="_blank" rel="noopener noreferrer"><img width="450" alt="image" src="/home.jpg"></a>
+
+
 Me--A creative thinker who strives for improvement and perfection.
-&nbsp;
+
 
 - Web Developer
 
@@ -41,7 +42,9 @@ Me--A creative thinker who strives for improvement and perfection.
 
 - Please contact me if you find that an open source project I created is infringing.
 
-&nbps;
 
 <a href="mailto:superlab@duyou.org" target="_blank" rel="noopener noreferrer">
-    <img width="450" alt="image" src="/email.jpg">
+    <img width="450" alt="image" src="/email.jpg"></a>
+
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img width="450" alt="image" src="/github.jpg"></a>
