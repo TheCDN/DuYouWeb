@@ -3,8 +3,8 @@
 Nice to meet you.
 &nbsp;
 
-<img width="450" alt="image" src="/home.jpg">
-
+<a href="/" target="_blank" rel="noopener noreferrer">
+    <img width="450" alt="image" src="/email.jpg">
 Me--A creative thinker who strives for improvement and perfection.
 &nbsp;
 
