@@ -3,6 +3,8 @@
 Nice to meet you.
 &nbsp;
 
+<img width="450" alt="image" src="/home.jpg">
+
 Me--A creative thinker who strives for improvement and perfection.
 &nbsp;
 
@@ -39,3 +41,7 @@ Me--A creative thinker who strives for improvement and perfection.
 
 - Please contact me if you find that an open source project I created is infringing.
 
+&nbps;
+
+<a href="mailto:superlab@duyou.org" target="_blank" rel="noopener noreferrer">
+    <img width="450" alt="image" src="/email.jpg">
